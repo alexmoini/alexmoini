@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexmoini
 - 👀 I’m interested in Machine Learning and AI applications in NLP, physics, and biology, specifically neurobiology and circadian rhythm
-- 🌱 I’m currently learning Physics and Computational Biology at CU Boulder as well as machine learning and AI on my own time.
+- 🌱 I’m currently learning Applied Mathematics with a focus in Deep Learning and AI Systems at CU Boulder. I also work at a company called Expedite Commerce where I build AI systems that help sales people sell!
 - 📫 How to reach me:
   - email : alexandermoini@gmail.com
   - linkedin : linkedin.com/in/alexander-moini-b308991ba
